@@ -1,0 +1,35 @@
+.profile__container {
+  position: absolute;
+  right: 20px;
+  top: 100px;
+}
+.profile__subcontainer {
+  position: relative;
+  background: pink;
+  padding: 1rem;
+  border-radius: 16px;
+  width: 200px;
+  height: fit-content;
+  border: 1px solid black;
+}
+.h5__signin {
+  font-weight: 500;
+  font-size: 16px;
+  text-align: center;
+  color: black;
+}
+.sign__up {
+  width: 100%;
+  margin: 0.5rem 0 0.5rem 0;
+  background: rgb(60, 8, 107);
+  padding: 0.5rem;
+  border-radius: 10px;
+  font-size: 15px;
+}
+.create__account {
+  width: 100%;
+  background: rgb(60, 8, 107);
+  padding: 0.5rem;
+  border-radius: 10px;
+  font-size: 15px;
+}

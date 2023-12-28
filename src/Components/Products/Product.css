@@ -1,0 +1,50 @@
+.products__container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+  align-items: center;
+}
+.products__subcontainer {
+  background: pink;
+  margin: 2rem 0 0 0;
+  border-radius: 8px;
+  border: 1px solid black;
+  width: 25%;
+}
+.img__toy__container {
+  padding: 2rem 1rem 1rem 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.img__toy {
+  width: 80%;
+  height: 250px;
+  border-radius: 8px;
+}
+.button__toy__container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.button__toy {
+  width: 68%;
+  border-radius: 10px;
+  padding: 0.5rem;
+  margin: 0 0 1rem 0;
+}
+.price__rating__toyContainer {
+  display: flex;
+  justify-content: space-between;
+}
+.price__toy {
+  padding: 0 0 1.1rem 2.6rem;
+}
+.rating__toy {
+  padding: 0 2.6rem 0 0;
+}
+.description__toy {
+  text-align: justify;
+  padding: 0 2.5rem 1rem 2.5rem;
+}
